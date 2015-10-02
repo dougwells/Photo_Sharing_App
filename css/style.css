@@ -1,0 +1,85 @@
+body {
+  padding-top: 50px;
+}
+
+section {
+	padding: 40px 0 40px 0;
+}
+
+.emphasis-text{
+	color:#1caa98 !important;
+}
+
+.green-text{
+	color: green;
+}
+
+.jumbotron {
+	background: url(../img/site_showcase_bg.jpg) no-repeat top center;
+	color: #fff;
+	height: 600px;
+	overflow: none;}
+	
+.jumbotron h1 {
+	margin-top: 60px;
+}
+
+.jumbotron p {
+	margin-bottom: 40px;
+}
+
+
+.jumbotron img.app-btn-ios {
+	width: 40%;
+	height: 40%;
+	margin-right: 30px;
+}
+
+.jumbotron img.app-btn-android {
+	width: 34%;
+	height: 34%;
+	margin-right: 30px;
+}
+
+.jumbotron img.showcase-img {
+	width: 75%;
+}
+
+img.demo {
+	width: 100%;
+	padding: 3px;
+	border:	1px solid #ccc;
+}
+
+section#feature {
+	background-color: #1caa98;
+	color: #fff;
+	padding: 40px 0 40px 0;
+	overflow: auto;
+}
+
+section#feature ul li {
+font-size: 22px;
+list-style: none;
+line-height: 2.0em;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 30px 0 20px 0;
+}
+
+footer li {
+	float: left;
+	padding: 0 10px 0 10px;
+	list-style: none;
+}
+
+footer li a {
+	color: #fff;
+}
+
+footer p {
+	float:	right;
+}

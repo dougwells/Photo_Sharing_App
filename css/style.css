@@ -52,7 +52,7 @@ img.demo {
 }
 
 section#feature {
-	background-color: #1caa98;
+	background: #1caa98;
 	color: #fff;
 	padding: 40px 0 40px 0;
 	overflow: auto;
@@ -62,6 +62,18 @@ section#feature ul li {
 font-size: 22px;
 list-style: none;
 line-height: 2.0em;
+}
+
+section#title-bar {
+	padding: 0;
+	margin: 0;
+	height: 80px;
+	background: #1caa98;
+	color: #fff;
+}
+
+section#title-bar h1 {
+	margin-bottom: 20px;
 }
 
 footer {

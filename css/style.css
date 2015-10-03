@@ -76,6 +76,17 @@ section#title-bar h1 {
 	margin-bottom: 20px;
 }
 
+.panel-heading#headingOne {
+	color: #fff;
+    background-color: #337ab7;
+    border-color: #fff;
+    display: inline-block;
+}
+
+.panel-default {
+    border: none;	
+}
+
 footer {
 	background-color: #333;
 	color: #fff;
